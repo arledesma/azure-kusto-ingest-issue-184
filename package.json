@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "azure-kusto-ingest": "^3.2.0"
+  },
+  "overrides": {
+    "azure-kusto-data": "^3.2.0"
   }
 }
